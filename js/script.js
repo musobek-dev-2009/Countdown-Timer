@@ -1,4 +1,4 @@
-const targetDate = new Date('2025-01-01T00:00:00');
+const targetDate = new Date('2024-11-11T00:00:00');
 
 targetDate.setDate(targetDate.getDate() + 5);
 
